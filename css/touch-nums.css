@@ -1,4 +1,7 @@
 
+html {
+    font-family: 'Courier New', Courier, monospace;
+}
 
 .container {
     background-color: aqua;
@@ -11,6 +14,7 @@ top :50px;
     background-color: orange;
     width: fit-content;
     transition: 2s;
+    
     
 }
 
