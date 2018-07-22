@@ -1,4 +1,5 @@
 html {
+    font-family: 'Courier New', Courier, monospace;
     background-color: cadetblue;
 }
 
@@ -13,6 +14,7 @@ top :50px;
     background-color: orange;
     width: fit-content;
     transition: 2s;
+    
     
 }
 
